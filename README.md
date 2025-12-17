@@ -1,6 +1,4 @@
-# Leandro Patrón
-
-AI Engineer (MSc.) | Embedded AI & IoT
+## AI Engineer (MSc.) | Embedded AI & IoT
 
 I design and deliver end-to-end AI systems, from prototype to production, across cloud, edge, and embedded environments.
 
