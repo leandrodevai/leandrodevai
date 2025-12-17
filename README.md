@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ing. Leandro Patrón
 
-<!--
-**leandrodevai/leandrodevai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer (MSc.) | Embedded AI & IoT
 
-Here are some ideas to get you started:
+I design and deliver end-to-end AI systems, from prototype to production, across cloud, edge, and embedded environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Applied AI & Machine Learning systems
+- LLM-based architectures (RAG, agents)
+- Computer vision for real-world optimization
+- Embedded and edge AI under real-world constraints
+- IoT and system integration
+
+## Contact
+- LinkedIn: https://linkedin.com/in/leandro-patron
+- Portfolio: https://github.com/leandrodevai
+
