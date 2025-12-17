@@ -1,4 +1,4 @@
-# Ing. Leandro Patrón
+# Leandro Patrón
 
 AI Engineer (MSc.) | Embedded AI & IoT
 
