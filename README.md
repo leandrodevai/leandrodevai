@@ -11,5 +11,4 @@ I design and deliver end-to-end AI systems, from prototype to production, across
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/leandro-patron
-- Portfolio: https://github.com/leandrodevai
 
